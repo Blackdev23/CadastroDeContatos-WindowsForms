@@ -1,0 +1,11 @@
+C:\Users\android\Documents\Projects\CadastroDeContatos\CadastroDeContatos\obj\Debug\CadastroDeContatos.csproj.AssemblyReference.cache
+C:\Users\android\Documents\Projects\CadastroDeContatos\CadastroDeContatos\obj\Debug\CadastroDeContatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\android\Documents\Projects\CadastroDeContatos\CadastroDeContatos\obj\Debug\CadastroDeContatos.Form1.resources
+C:\Users\android\Documents\Projects\CadastroDeContatos\CadastroDeContatos\obj\Debug\CadastroDeContatos.Properties.Resources.resources
+C:\Users\android\Documents\Projects\CadastroDeContatos\CadastroDeContatos\obj\Debug\CadastroDeContatos.csproj.GenerateResource.cache
+C:\Users\android\Documents\Projects\CadastroDeContatos\CadastroDeContatos\obj\Debug\CadastroDeContatos.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\Projects\CadastroDeContatos\CadastroDeContatos\bin\Debug\CadastroDeContatos.exe.config
+C:\Users\android\Documents\Projects\CadastroDeContatos\CadastroDeContatos\bin\Debug\CadastroDeContatos.exe
+C:\Users\android\Documents\Projects\CadastroDeContatos\CadastroDeContatos\bin\Debug\CadastroDeContatos.pdb
+C:\Users\android\Documents\Projects\CadastroDeContatos\CadastroDeContatos\obj\Debug\CadastroDeContatos.exe
+C:\Users\android\Documents\Projects\CadastroDeContatos\CadastroDeContatos\obj\Debug\CadastroDeContatos.pdb
